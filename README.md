@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**k99885/k99885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools
+🏆( 🟡: 기초 수준, 🟠: 취미 개발 수준, 🟢: 프로젝트 개발 수준 )
+### Languages:
+| Python | &nbsp; &nbsp; C &nbsp; &nbsp; |&nbsp; C++ |
+|------|------|------|
+| ![Python](https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg) | ![C](https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg) | ![C++](https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg) |
+| &nbsp; &nbsp;🟢| &nbsp; &nbsp;🟠| &nbsp; &nbsp;🟠|
 
-Here are some ideas to get you started:
+### Best frameworks and main libraries:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| OpenCV | TensorFlow | PyTorch | NumPy | Pandas | Scikit-Learn | MFC |
+|--------|------------|---------|-------|--------|--------------|-----|
+| ![OpenCV](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg) | ![TensorFlow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg) | ![PyTorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![Scikit-Learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | mfc|
+| &nbsp; &nbsp;🟢| &nbsp; &nbsp; &nbsp; &nbsp;🟢| &nbsp; &nbsp;🟠| &nbsp; &nbsp;🟡| &nbsp; &nbsp;🟡| &nbsp; &nbsp; &nbsp; &nbsp;🟠|  &nbsp;🟡|
+
