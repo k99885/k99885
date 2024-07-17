@@ -20,3 +20,39 @@
 | ![OpenCV](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg) | ![TensorFlow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg) | ![PyTorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![Scikit-Learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | mfc|
 | &nbsp; &nbsp;🟢| &nbsp; &nbsp; &nbsp; &nbsp;🟢| &nbsp; &nbsp;🟠| &nbsp; &nbsp;🟡| &nbsp; &nbsp;🟡| &nbsp; &nbsp; &nbsp; &nbsp;🟠|  &nbsp;🟡|
 
+
+
+## ⭐️ 주요 레포지토리 ⭐️
+[Repo1: 멋진 프로젝트](https://github.com/k99885/Braille_book_OCR_system)
+<a href="https://github.com/k99885/Braille_book_OCR_system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Braille_book_OCR_system&theme=radical" />
+</a>
+
+- **설명**: 이 프로젝트는 무엇을 하는지에 대한 간단한 설명을 여기에 작성하세요.
+
+<a href="https://github.com/k99885/Camera_Module_Having_Multi-Telephoto_Lens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Camera_Module_Having_Multi-Telephoto_Lens&theme=radical" />
+</a>
+
+- **설명**: 이 프로젝트는 무엇을 하는지에 대한 간단한 설명을 여기에 작성하세요.
+
+<a href="https://github.com/k99885/Color_image_implementation_using_multiple_miniaturized_camera_modules">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Color_image_implementation_using_multiple_miniaturized_camera_modules&theme=radical" />
+</a>
+
+- **설명**: 이 프로젝트는 무엇을 하는지에 대한 간단한 설명을 여기에 작성하세요.
+
+## ⭐️ 경진 대회 ⭐️
+
+<a href="https://github.com/k99885/2024_Disaster_Safety_Data_Hackathon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=2024_Disaster_Safety_Data_Hackathon&theme=radical" />
+</a>
+
+<a href="https://github.com/k99885/OTF_PROJECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=OTF_PROJECT&theme=radical" />
+</a>
+
+## ⭐️ 연구보고서 ⭐️
+<a href="https://github.com/k99885/Research_Report">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Research_Report&theme=radical" />
+</a>
