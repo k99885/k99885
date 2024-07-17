@@ -20,8 +20,12 @@
 | ![OpenCV](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg) | ![TensorFlow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg) | ![PyTorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![Scikit-Learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | mfc|
 | &nbsp; &nbsp;🟢| &nbsp; &nbsp; &nbsp; &nbsp;🟢| &nbsp; &nbsp;🟠| &nbsp; &nbsp;🟡| &nbsp; &nbsp;🟡| &nbsp; &nbsp; &nbsp; &nbsp;🟠|  &nbsp;🟡|
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
+          
 ## ⭐️ 주요 레포지토리 ⭐️
 <a href="https://github.com/k99885/Braille_book_OCR_system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Braille_book_OCR_system&theme=radical" />
