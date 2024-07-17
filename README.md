@@ -5,7 +5,7 @@
 
 저의 GitHub 프로필에 오신 것을 환영합니다! 저는 Image processing, computer vision에 관심있는 개발자이며, 다양한 프로젝트와 학습을 통해 끊임없이 성장하고 있습니다.
 
-## Languages and Tools
+## ⭐️Languages and Tools⭐️
 🏆( 🟡: 기초 수준, 🟠: 취미 개발 수준, 🟢: 프로젝트 개발 수준 )
 ### Languages:
 | Python | &nbsp; &nbsp; C &nbsp; &nbsp; |&nbsp; C++ |
@@ -23,24 +23,17 @@
 
 
 ## ⭐️ 주요 레포지토리 ⭐️
-[Repo1: 멋진 프로젝트](https://github.com/k99885/Braille_book_OCR_system)
 <a href="https://github.com/k99885/Braille_book_OCR_system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Braille_book_OCR_system&theme=radical" />
 </a>
-
-- **설명**: 이 프로젝트는 무엇을 하는지에 대한 간단한 설명을 여기에 작성하세요.
 
 <a href="https://github.com/k99885/Camera_Module_Having_Multi-Telephoto_Lens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Camera_Module_Having_Multi-Telephoto_Lens&theme=radical" />
 </a>
 
-- **설명**: 이 프로젝트는 무엇을 하는지에 대한 간단한 설명을 여기에 작성하세요.
-
 <a href="https://github.com/k99885/Color_image_implementation_using_multiple_miniaturized_camera_modules">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Color_image_implementation_using_multiple_miniaturized_camera_modules&theme=radical" />
 </a>
-
-- **설명**: 이 프로젝트는 무엇을 하는지에 대한 간단한 설명을 여기에 작성하세요.
 
 ## ⭐️ 경진 대회 ⭐️
 
@@ -52,7 +45,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=OTF_PROJECT&theme=radical" />
 </a>
 
+<a href="https://github.com/k99885/dacon2024_bird_lowres_image_classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=dacon2024_bird_lowres_image_classification&theme=radical" />
+</a>
+
 ## ⭐️ 연구보고서 ⭐️
 <a href="https://github.com/k99885/Research_Report">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Research_Report&theme=radical" />
 </a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
