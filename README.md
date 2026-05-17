@@ -28,26 +28,26 @@ Image processing, computer vision 분야에 관심을 가지고 있는 AI 엔지
           
 ## ⭐️ 주요 레포지토리 ⭐️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Braille_book_OCR_system&theme=radical)](https://github.com/k99885/Braille_book_OCR_system)
+[![Braille OCR](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k99885&repo=Braille_book_OCR_system&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/k99885/Braille_book_OCR_system)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Camera_Module_Having_Multi-Telephoto_Lens&theme=radical)](https://github.com/k99885/Camera_Module_Having_Multi-Telephoto_Lens)
+[![Multi Telephoto Lens](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k99885&repo=Camera_Module_Having_Multi-Telephoto_Lens&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/k99885/Camera_Module_Having_Multi-Telephoto_Lens)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Color_image_implementation_using_multiple_miniaturized_camera_modules&theme=radical)](https://github.com/k99885/Color_image_implementation_using_multiple_miniaturized_camera_modules)
+[![Color Image System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k99885&repo=Color_image_implementation_using_multiple_miniaturized_camera_modules&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/k99885/Color_image_implementation_using_multiple_miniaturized_camera_modules)
 
 ---
 
 ## ⭐️ 경진 대회 ⭐️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=2024_Disaster_Safety_Data_Hackathon&theme=radical)](https://github.com/k99885/2024_Disaster_Safety_Data_Hackathon)
+[![Disaster Safety Hackathon](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k99885&repo=2024_Disaster_Safety_Data_Hackathon&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/k99885/2024_Disaster_Safety_Data_Hackathon)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=OTF_PROJECT&theme=radical)](https://github.com/k99885/OTF_PROJECT)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=dacon2024_bird_lowres_image_classification&theme=radical)](https://github.com/k99885/dacon2024_bird_lowres_image_classification)
+[![OTF PROJECT](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k99885&repo=OTF_PROJECT&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/k99885/OTF_PROJECT)
 
 ---
 
 ## ⭐️ 연구보고서 ⭐️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Research_Report&theme=radical)](https://github.com/k99885/Research_Report)
+[![Research Report](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k99885&repo=Research_Report&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/k99885/Research_Report)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=150&section=footer)
