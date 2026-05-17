@@ -28,35 +28,26 @@
           
 ## ⭐️ 주요 레포지토리 ⭐️
 
-<a href="https://github.com/k99885/Braille_book_OCR_system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Braille_book_OCR_system&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Braille_book_OCR_system&theme=radical)](https://github.com/k99885/Braille_book_OCR_system)
 
-<a href="https://github.com/k99885/Camera_Module_Having_Multi-Telephoto_Lens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Camera_Module_Having_Multi-Telephoto_Lens&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Camera_Module_Having_Multi-Telephoto_Lens&theme=radical)](https://github.com/k99885/Camera_Module_Having_Multi-Telephoto_Lens)
 
-<a href="https://github.com/k99885/Color_image_implementation_using_multiple_miniaturized_camera_modules">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Color_image_implementation_using_multiple_miniaturized_camera_modules&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Color_image_implementation_using_multiple_miniaturized_camera_modules&theme=radical)](https://github.com/k99885/Color_image_implementation_using_multiple_miniaturized_camera_modules)
+
+---
 
 ## ⭐️ 경진 대회 ⭐️
 
-<a href="https://github.com/k99885/2024_Disaster_Safety_Data_Hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=2024_Disaster_Safety_Data_Hackathon&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=2024_Disaster_Safety_Data_Hackathon&theme=radical)](https://github.com/k99885/2024_Disaster_Safety_Data_Hackathon)
 
-<a href="https://github.com/k99885/OTF_PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=OTF_PROJECT&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=OTF_PROJECT&theme=radical)](https://github.com/k99885/OTF_PROJECT)
 
-<a href="https://github.com/k99885/dacon2024_bird_lowres_image_classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=dacon2024_bird_lowres_image_classification&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=dacon2024_bird_lowres_image_classification&theme=radical)](https://github.com/k99885/dacon2024_bird_lowres_image_classification)
+
+---
 
 ## ⭐️ 연구보고서 ⭐️
-<a href="https://github.com/k99885/Research_Report">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Research_Report&theme=radical" />
-</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k99885&repo=Research_Report&theme=radical)](https://github.com/k99885/Research_Report)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
