@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=우헌이의%20GitHub&fontSize=90&fontAlignY=40&desc=Welcome%20to%20my%20profile&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WooHeon%20GitHub&fontSize=90&fontAlignY=40&desc=Welcome%20to%20my%20profile&descAlignY=60&descAlign=50)
 
 # 안녕하세요!  👋
 
-저의 GitHub 프로필에 오신 것을 환영합니다! 저는 Image processing, computer vision에 관심있는 개발자이며, 다양한 프로젝트와 학습을 통해 끊임없이 성장하고 있습니다.
+Image processing, computer vision 분야에 관심을 가지고 있는 AI 엔지니어입니다.
 
 ## ⭐️Languages and Tools⭐️
 🏆( 🟡: 기초 수준, 🟠: 취미 개발 수준, 🟢: 프로젝트 개발 수준 )
